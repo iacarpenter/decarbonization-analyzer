@@ -14,7 +14,7 @@ This tool analyzes organization's decarbonization goals by searching for informa
 
 1. Clone this repository:
    ```
-   git clone https://github.com/EDITTHIS/decarbonization-analyzer.git
+   git clone https://github.com/iacarpenter/decarbonization-analyzer
    cd decarbonization-analyzer
    ```
 
